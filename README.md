@@ -1,0 +1,2 @@
+# mobilenetv2-yolov5
+将cspdarknet53的骨干换成了mobilenetv2，可以学习一下dataset和model是如何写的。
